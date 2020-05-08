@@ -2,10 +2,6 @@
 
 ### E-Commerce Platform that aims to design an online camera gear store. 
 
-This is a updated version of the previous camera-shop, that I'm currently working on it.
-
-Right now I'm rebuilding the back and one of my intentions is to make different versions of this website based on he type of user.
-
 ## Prerequisites
 If you want to test this project you have to create your MongoDB database. The simplest way is through Mongo Atlas.
 
